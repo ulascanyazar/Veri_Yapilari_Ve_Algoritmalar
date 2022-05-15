@@ -3,16 +3,22 @@
 Binary search tree bir kökün (root) seçilmesiyle başlar. Seçilen root'un sol tarafında kendisinden küçük, sağ tarafında ise kendisinden büyük sayılar bulunur. Bu sayıların bulunduğu noktalara düğüm denir. Bu düğümler için de aynı sıralama koşulu geçerlidir.
 Kökümüzü 7 seçelim.
 |7|
+
+
 5, 7'den küçük oldupu için soluna yerleştiriyoruz.
 | | |7|
 | |/| |
 |5| | |
+
+
 1, hem 7'den hem de 5'ten küçük olduğu için şimdilik en sola yerleştiriyoruz.
 | | | | |7|
 | | | |/| |
 | | |5| | |
 | |/| | | |
 |1| | | | |
+
+
 8 sayısı 7'den büyük odluğu için sağ tarafına yerleştiriyoruz.
 | | | | |7| | |
 | | | |/| |\| |
