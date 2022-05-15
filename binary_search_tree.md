@@ -6,6 +6,8 @@ Kökümüzü 7 seçelim.
 
 
 5, 7'den küçük oldupu için soluna yerleştiriyoruz.
+
+
 |-|-|-|
 | | |7|
 | |/| |
