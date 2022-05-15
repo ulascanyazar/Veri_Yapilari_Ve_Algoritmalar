@@ -8,6 +8,7 @@ Kökümüzü 7 seçelim.
 5, 7'den küçük oldupu için soluna yerleştiriyoruz.
 
 
+| | | |
 |-|-|-|
 | | |7|
 | |/| |
@@ -15,6 +16,9 @@ Kökümüzü 7 seçelim.
 
 
 1, hem 7'den hem de 5'ten küçük olduğu için şimdilik en sola yerleştiriyoruz.
+
+
+| | | | | |
 |-|-|-|-|-|
 | | | | |7|
 | | | |/| |
@@ -24,6 +28,9 @@ Kökümüzü 7 seçelim.
 
 
 8 sayısı 7'den büyük odluğu için sağ tarafına yerleştiriyoruz.
+
+
+| | | | | | | |
 |-|-|-|-|-|-|-|
 | | | | |7| | |
 | | | |/| |\| |
@@ -33,6 +40,9 @@ Kökümüzü 7 seçelim.
 
 
 3 sayısı 7 ve 5'ten küçük, ancak 1'den büyük. Bu yüzden 1'in sağına ekliyoruz.
+
+
+| | | | | | | |
 |-|-|-|-|-|-|-|
 | | | | |7| | |
 | | | |/| |\| |
@@ -44,6 +54,9 @@ Kökümüzü 7 seçelim.
 
 
 6 sayısı 7'den küçük ancak 5'ten büyük olduğu için 5'in sağına yerleştiriyoruz.
+
+
+| | | | | | | |
 |-|-|-|-|-|-|-|
 | | | | |7| | |
 | | | |/| |\| |
@@ -55,6 +68,9 @@ Kökümüzü 7 seçelim.
 
 
 0 sayısı 1'den küçük olduğu için en sola ekliyoruz.
+
+
+| | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|
 | | | | | | |7| | |
 | | | | | |/| |\| |
@@ -66,6 +82,9 @@ Kökümüzü 7 seçelim.
 
 
 9, 8'den büyük, o yüzden en sağa yerleştiriyoruz.
+
+
+| | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|
 | | | | | | |7| | | | |
 | | | | | |/| |\| | | |
@@ -77,6 +96,9 @@ Kökümüzü 7 seçelim.
 
 
 4, 5'ten küçük ancak 3'ten büyük. 3'ün sağına ekliyoruz.
+
+
+| | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|
 | | | | | | |7| | | | |
 | | | | | |/| |\| | | |
@@ -90,6 +112,9 @@ Kökümüzü 7 seçelim.
 
 
 2, 3'ten küçük olduğundan sağına ekliyoruz.
+
+
+| | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|
 | | | | | | |7| | | | |
 | | | | | |/| |\| | | |
